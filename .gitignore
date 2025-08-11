@@ -1,0 +1,12 @@
+# OS files
+.DS_Store
+Thumbs.db
+
+# Terraform
+.terraform/
+terraform.tfstate*
+*.log
+
+# Node.js
+node_modules/
+.env
